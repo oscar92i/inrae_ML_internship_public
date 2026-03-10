@@ -1,0 +1,6 @@
+torch==2.7.1
+einops==0.8.1
+scikit-learn==1.6.1
+matplotlib==3.10.1
+numpy==1.26.4
+xgbbost==3.0.2
